@@ -1,0 +1,1 @@
+Playground for practising Udemy course Deep Learning Prerequisites: The Numpy Stack in Python (V2+)
